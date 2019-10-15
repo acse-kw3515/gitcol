@@ -1,2 +1,3 @@
 #test
-print('hello Linga')
+print('hello Linga and Ke')
+print('hi princess Ke')
